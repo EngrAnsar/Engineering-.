@@ -1,0 +1,49 @@
+MONTHLY PROGRESS REPORT - MONTH 5
+
+Scheme: Provision of 11 kV Feeder, Distribution Transformers and LT Network
+for Rehman Colony & Adjoining Areas.
+Contractor: M/s Bright Line Electrical Works (Pvt.) Ltd.
+Reporting Period: Month 5 of 8.
+
+1. HT Line (11 kV Feeder):
+   Pole erection is complete for the full 6.2 km alignment. Conductor
+   stringing is complete for 5.4 km; the remaining 0.8 km near RD 5+200
+   to RD 6+000 is held up because two private landowners have not yet
+   given right-of-way clearance for pole foundations. Feeder has NOT
+   been energized pending completion of stringing and earthing tests.
+
+2. Distribution Transformers:
+   4 of 5 x 200 kVA transformers installed and earthing-tested (values
+   3.2, 3.8, 4.1, and 4.6 ohms - all within the 5 ohm limit). The 5th
+   200 kVA transformer (near Block-G) is on site but installation is
+   pending crane availability, expected next week. All 3 x 100 kVA
+   transformers installed; earthing test results awaited from the
+   contractor's testing lab.
+
+3. LT Network (Aerial Bunched Cable):
+   Stringing complete in Blocks A, B, C, D (approx. 3.9 km of the 9.4 km
+   scope). Work in Blocks E-K has not started because the transformers
+   feeding those blocks are not yet energized. Contractor has requested
+   permission to begin LT pole erection (without conductor) in parallel
+   to save time once HT energization is complete.
+
+4. Feeder Pillars / Distribution Boards:
+   5 of 8 installed. Remaining 3 are held at the contractor's store
+   pending LT network progress in the corresponding blocks.
+
+5. Meter Installation:
+   Not yet started. Contractor states meters cannot be installed until
+   LT network in each block is live. Revenue wing has completed consumer
+   verification for Blocks A-D (approx. 640 of 1,850 consumers).
+
+6. Site Issues Noted:
+   - Right-of-way dispute for 0.8 km HT stretch remains unresolved;
+     contractor requests SDO's assistance in a joint visit with
+     landowners.
+   - One 100 kVA transformer earthing test is overdue by 12 days.
+   - Contractor's site engineer flagged that 2 disc insulators supplied
+     in the last lot appear to be a different make than the approved
+     sample; awaiting lab test certificate.
+
+7. Overall Physical Progress: 46% (against a planned cumulative
+   progress of 62% for Month 5 as per approved PC-I schedule).

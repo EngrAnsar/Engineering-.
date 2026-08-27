@@ -1,0 +1,18 @@
+item_no,description,unit,quantity,rate_pkr,amount_pkr
+1,RCC pole 9m (LT line),each,420,26500,11130000
+2,PCC pole 8m (service connection),each,180,14200,2556000
+3,ACSR Rabbit conductor (11kV HT line),km,6.2,285000,1767000
+4,Aerial Bunched Cable 4x25 sqmm (LT),km,7.1,410000,2911000
+5,Aerial Bunched Cable 4x50 sqmm (LT),km,2.3,610000,1403000
+6,Distribution transformer 200kVA pole-mounted,each,5,1850000,9250000
+7,Distribution transformer 100kVA pole-mounted,each,3,1150000,3450000
+8,HG fuse cut-out set 11kV,set,8,18500,148000
+9,Lightning arrester 11kV,each,8,21000,168000
+10,Disc insulator 11kV,each,320,950,304000
+11,Pin insulator LT,each,1260,180,226800
+12,Feeder pillar / distribution board,each,8,95000,760000
+13,Single-phase energy meter (static),each,1580,8200,12956000
+14,Three-phase energy meter (static),each,270,24500,6615000
+15,Earthing set (pipe electrode + accessories),set,45,12500,562500
+16,Cable trench excavation & backfill (LT service),meter,3200,650,2080000
+17,Danger board / phase marking signage,each,180,850,153000

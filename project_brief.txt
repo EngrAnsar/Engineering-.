@@ -1,0 +1,53 @@
+PROJECT BRIEF
+
+Name of Scheme: Provision of 11 kV Feeder, Distribution Transformers and
+LT Network for Rehman Colony & Adjoining Areas, Tehsil Jaranwala, District
+Faisalabad.
+
+Executing Agency: Faisalabad Electric Supply Company (FESCO), Construction
+& Development Division, Jaranwala.
+
+Contractor: M/s Bright Line Electrical Works (Pvt.) Ltd.
+
+Approved Cost (PC-I): PKR 214.80 million.
+
+Time Allowed: 8 months.
+
+Date of Commencement: 03-02-2026.
+
+Date of Completion (as per agreement): 02-10-2026.
+
+Scope of Work:
+1. Erection of 11 kV feeder, approx. 6.2 km, on RCC/PCC poles with ACSR
+   Rabbit conductor.
+2. Supply and installation of 5 x 200 kVA and 3 x 100 kVA pole-mounted
+   distribution transformers with HG fuses and lightning arresters.
+3. LT network (aerial bunched cable, 4-core, 25 sqmm and 50 sqmm) covering
+   approx. 9.4 km across 11 residential blocks.
+4. Installation of feeder pillars / distribution boards at each
+   transformer location.
+5. Individual meter installation (single-phase and three-phase) for
+   approx. 1,850 consumers, coordinated with the Revenue wing.
+6. Earthing of all transformers, poles at road crossings, and LT network
+   neutral points as per FESCO earthing standard.
+7. Removal and safe disposal of the existing low-tension temporary
+   network currently serving the area.
+
+Key Milestones:
+- Pole erection and HT line stringing: Month 1-3.
+- Transformer installation and energization of HT feeder: Month 4.
+- LT network (ABC) stringing: Month 4-6.
+- Meter installation and consumer connection: Month 6-7.
+- Testing, commissioning, and handover: Month 8.
+
+Reporting Requirement: Monthly progress report to Superintending Engineer
+(Construction Circle), Faisalabad, with photographic record of energized
+sections and copy to XEN (Construction Division), Jaranwala.
+
+Special Conditions:
+- All HT/LT clearances to be maintained as per WAPDA/NEPRA Grid Code and
+  PEC (Pakistan Engineering Council) distribution standards.
+- No energization of any section without prior test report of earthing
+  resistance (target: less than 5 ohms at each transformer earth pit).
+- Contractor to submit as-built drawings prior to final payment
+  certificate.

@@ -1,0 +1,39 @@
+site visit 14-07-2026, Block C transformer + Block D LT stringing, w/ site engr Bilal
+
+- Block C 200kVA TR - earthing test copy on site shows 3.8 ohm, OK. but
+  earth pit cover missing, open pit near school boundary wall, safety
+  hazard, told contractor to cover TODAY
+
+- HG fuse cutout at Block C TR loose, one porcelain unit hairline crack
+  visible, contractor says replacement in store, will fix by Fri
+
+- LT clearance at RD 2+400, ABC cable passing approx 4.1m above ground
+  near a private rooftop water tank - PEC min clearance for LT lines
+  over roof access areas is 3.7m near non-trafficked, but this is a
+  water tank access point people climb to, flagged for review, need
+  confirm actual clearance measurement w/ tape not by eye
+
+- 3 poles in Block D leaning noticeably (approx 8-10 deg) after last
+  week's storm, RD 3+100 to RD 3+250, contractor foreman says will
+  re-plumb this week, no conductor sag observed yet but priority
+
+- feeder pillar Block C - door lock broken, panel accessible to public,
+  no danger signage on 2 of 3 sides. told contractor mandatory before
+  next inspection
+
+- meter yet not installed anywhere in block C/D per site engr, revenue
+  dept verification list shows 210 consumers cleared in these 2 blocks,
+  contractor says waiting on LT energization
+
+- asked contractor for updated earthing test reports for 100kVA TRs
+  (100kVA-2, 100kVA-3) - overdue, verbally told will submit in 3 days,
+  get in writing
+
+- material store check: ABC cable reels (4x25) look ok, tags matching
+  approved make. insulators - noticed 1 box labelled differently from
+  rest (different manufacturer sticker), asked contractor for test
+  certificate on this specific lot, held aside, not yet installed
+
+- general: no PPE non-compliance observed this visit, workers wearing
+  helmets. one worker without insulated gloves seen near LT panel work,
+  reminded foreman
